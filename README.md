@@ -8,7 +8,7 @@
 ## Query example
 End point is: /graphql
 
-### Get pokemon by Id (it will return the id and name of the pokemon):
+### Get pokemon by Id (it will return the name of the pokemon with id 1213):
 `{
   pokemon(id: 1213) {
     nom
